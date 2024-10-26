@@ -13,7 +13,7 @@ Vaman is an ongoing project that aims to create an autonomous robot inspired by 
 **Under Construction** - The development team is actively working on various components, including motion algorithms, sensor integration, and structural design. 
 
 ### 🤝 Team Collaboration
+<a href="https://github.com/RudeHats"> <img src="https://img.shields.io/badge/-RudeHats-181717?style=for-the-badge&logo=github" /> </a> <a href="https://github.com/SwayamAnshu"> <img src="https://img.shields.io/badge/-SwayamAnshu-181717?style=for-the-badge&logo=github" /> </a> <a href="https://github.com/Jitenndra03"> <img src="https://img.shields.io/badge/-Jitenndra03-181717?style=for-the-badge&logo=github" /> </a> <a href="https://github.com/2213393AH"> <img src="https://img.shields.io/badge/-2213393AH-181717?style=for-the-badge&logo=github" /> </a> <a href="https://github.com/IAbhisek"> <img src="https://img.shields.io/badge/-IAbhisek-181717?style=for-the-badge&logo=github" /> </a>
 
-<a href="https://github.com/RudeHats"> <img src="https://img.shields.io/badge/-RudeHats-181717?style=for-the-badge&logo=github" /> </a> <a href="https://github.com/SwayamAnshu"> <img src="https://img.shields.io/badge/-SwayamAnshu-181717?style=for-the-badge&logo=github" /> </a> <a href="https://github.com/Jitenndra03"> <img src="https://img.shields.io/badge/-Jitenndra03-181717?style=for-the-badge&logo=github" /> </a>
 
 <br>Stay tuned for more updates as we continue to build and refine Vaman!</br>
